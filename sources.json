@@ -1,0 +1,9 @@
+{
+  "budget": {"min": 600, "max": 700},
+  "max_active": 50,
+  "items": [
+    {"id":"r7-5700x-rtx3070-1167067861","url":"https://es.wallapop.com/item/pc-gaming-ryzen-7---rtx-3070---16gb-ddr4--ssd-1tb-1167067861"},
+    {"id":"r5-5500-rtx4060-1131836874","url":"https://es.wallapop.com/item/pc-gaming-ryzen-5-5500-rtx-4060-16gb-1131836874"},
+    {"id":"i5-12400f-3060ti-1109184957","url":"https://es.wallapop.com/item/pc-gaming-1109184957"}
+  ]
+}
