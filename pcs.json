@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:17:00+02:00",
+  "updated_at": "2026-08-07T16:28:53.275376+00:00",
   "items": [
     {
       "id": "r7-5700x-rtx3070-1167067861",
@@ -18,8 +18,12 @@
       "score": 92,
       "confidence": 90,
       "risk": "low",
-      "notes": ["Fuente de gama alta", "Plataforma B550", "Configuración equilibrada"],
-      "last_checked": "2026-08-07T16:17:00+02:00"
+      "notes": [
+        "Fuente de gama alta",
+        "Plataforma B550",
+        "Configuración equilibrada"
+      ],
+      "last_checked": "2026-08-07T16:28:49.666855+00:00"
     },
     {
       "id": "i5-12400f-rtx3070-630",
@@ -38,7 +42,10 @@
       "score": 88,
       "confidence": 58,
       "risk": "medium",
-      "notes": ["Excelente CPU/GPU por precio", "Faltan fuente, RAM, placa y almacenamiento"],
+      "notes": [
+        "Excelente CPU/GPU por precio",
+        "Faltan fuente, RAM, placa y almacenamiento"
+      ],
       "last_checked": "2026-08-07T16:17:00+02:00"
     },
     {
@@ -58,7 +65,10 @@
       "score": 87,
       "confidence": 76,
       "risk": "medium",
-      "notes": ["Wallapop Envíos indicado", "Fuente sin modelo exacto"],
+      "notes": [
+        "Wallapop Envíos indicado",
+        "Fuente sin modelo exacto"
+      ],
       "last_checked": "2026-08-07T16:17:00+02:00"
     },
     {
@@ -78,7 +88,10 @@
       "score": 86,
       "confidence": 91,
       "risk": "low",
-      "notes": ["Vendedor con historial fuerte", "Fuente conocida y adecuada"],
+      "notes": [
+        "Vendedor con historial fuerte",
+        "Fuente conocida y adecuada"
+      ],
       "last_checked": "2026-08-07T16:17:00+02:00"
     },
     {
@@ -98,8 +111,12 @@
       "score": 85,
       "confidence": 82,
       "risk": "low-medium",
-      "notes": ["DLSS 3 / Frame Generation", "Buen consumo", "Historial corto del vendedor"],
-      "last_checked": "2026-08-07T16:17:00+02:00"
+      "notes": [
+        "DLSS 3 / Frame Generation",
+        "Buen consumo",
+        "Historial corto del vendedor"
+      ],
+      "last_checked": "2026-08-07T16:28:50.871195+00:00"
     },
     {
       "id": "i5-12400f-3060ti-1109184957",
@@ -118,8 +135,11 @@
       "score": 81,
       "confidence": 72,
       "risk": "medium",
-      "notes": ["Precio competitivo", "Fuente menos recomendable que Corsair/NZXT"],
-      "last_checked": "2026-08-07T16:17:00+02:00"
+      "notes": [
+        "Precio competitivo",
+        "Fuente menos recomendable que Corsair/NZXT"
+      ],
+      "last_checked": "2026-08-07T16:28:52.075197+00:00"
     }
   ]
 }
