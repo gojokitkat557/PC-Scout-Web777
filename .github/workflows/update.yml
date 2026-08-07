@@ -1,0 +1,41 @@
+name: Actualizar PC Scout
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Actualizar anuncios de Wallapop
+        run: python scripts/update_wallapop.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "pc-scout-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add pcs.json history.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios"
+          else
+            git commit -m "auto: actualizar anuncios Wallapop"
+            git push
+          fi
