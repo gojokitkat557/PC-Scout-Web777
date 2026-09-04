@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T04:28:07.546886+00:00",
+  "updated_at": "2026-09-04T06:33:09.854041+00:00",
   "items": [
     {
       "id": "r7-5700x-rtx3070-1167067861",
@@ -23,7 +23,7 @@
         "Plataforma B550",
         "Configuración equilibrada"
       ],
-      "last_checked": "2026-09-04T04:28:03.937202+00:00"
+      "last_checked": "2026-09-04T06:33:06.236057+00:00"
     },
     {
       "id": "i5-12400f-rtx3070-630",
@@ -116,7 +116,7 @@
         "Buen consumo",
         "Historial corto del vendedor"
       ],
-      "last_checked": "2026-09-04T04:28:05.141949+00:00"
+      "last_checked": "2026-09-04T06:33:07.445221+00:00"
     },
     {
       "id": "i5-12400f-3060ti-1109184957",
@@ -139,7 +139,7 @@
         "Precio competitivo",
         "Fuente menos recomendable que Corsair/NZXT"
       ],
-      "last_checked": "2026-09-04T04:28:06.346688+00:00"
+      "last_checked": "2026-09-04T06:33:08.653864+00:00"
     }
   ]
 }
