@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:29:28.975424+00:00",
+  "updated_at": "2026-11-17T22:26:15.566614+00:00",
   "items": [
     {
       "id": "r7-5700x-rtx3070-1167067861",
@@ -13,7 +13,7 @@
       "psu": "Corsair RM850 80+ Gold modular",
       "seller": "4.85/5 · 8 valoraciones",
       "shipping": null,
-      "status": "active",
+      "status": "unavailable",
       "url": "https://es.wallapop.com/item/pc-gaming-ryzen-7---rtx-3070---16gb-ddr4--ssd-1tb-1167067861",
       "score": 92,
       "confidence": 90,
@@ -23,7 +23,7 @@
         "Plataforma B550",
         "Configuración equilibrada"
       ],
-      "last_checked": "2026-11-17T13:29:25.366777+00:00"
+      "last_checked": "2026-11-17T22:26:11.406560+00:00"
     },
     {
       "id": "i5-12400f-rtx3070-630",
@@ -106,7 +106,7 @@
       "psu": "Corsair RM650e modular",
       "seller": "2 ventas · 2 valoraciones",
       "shipping": null,
-      "status": "active",
+      "status": "unavailable",
       "url": "https://es.wallapop.com/item/pc-gaming-ryzen-5-5500-rtx-4060-16gb-1131836874",
       "score": 85,
       "confidence": 82,
@@ -116,7 +116,7 @@
         "Buen consumo",
         "Historial corto del vendedor"
       ],
-      "last_checked": "2026-11-17T13:29:26.570250+00:00"
+      "last_checked": "2026-11-17T22:26:12.880193+00:00"
     },
     {
       "id": "i5-12400f-3060ti-1109184957",
@@ -130,7 +130,7 @@
       "psu": "Mars Gaming MPVU750M",
       "seller": "Por confirmar",
       "shipping": null,
-      "status": "active",
+      "status": "unavailable",
       "url": "https://es.wallapop.com/item/pc-gaming-1109184957",
       "score": 81,
       "confidence": 72,
@@ -139,7 +139,7 @@
         "Precio competitivo",
         "Fuente menos recomendable que Corsair/NZXT"
       ],
-      "last_checked": "2026-11-17T13:29:27.775288+00:00"
+      "last_checked": "2026-11-17T22:26:14.366374+00:00"
     }
   ]
 }
